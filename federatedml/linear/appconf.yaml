@@ -1,0 +1,10 @@
+grcpcclient:
+       address: 22.188.12.86
+       port: 7777
+       secureflag: 0
+       streamsize: 419200000
+grpcserver:
+  port:  50051
+  secureflag: 0
+  streamsize: 419200000
+  #address: 22.189.33.85

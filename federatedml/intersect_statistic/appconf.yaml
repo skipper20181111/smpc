@@ -1,0 +1,12 @@
+basesecureinfo:
+
+grcpcclient:
+       address: 22.188.12.93
+       port: 50052
+       secureflag: 0
+       streamsize: 419200000
+grpcserver:
+  port:  50052
+  secureflag: 0
+  streamsize: 419200000
+  #address: 22.189.33.85
